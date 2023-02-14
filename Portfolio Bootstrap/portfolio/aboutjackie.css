@@ -3,3 +3,8 @@
         width: 50%;
     }
 }
+
+.d-flex.justify-content-between.d-none.d-lg-block{
+    margin-left: 100px;
+    padding-top: 50px;
+}
