@@ -1,0 +1,22 @@
+@media(min-width: 768px) {
+    .news-input {
+        width: 100%;
+    }
+}
+
+.btn.btn-secondary.btn-lg.p-3{
+    margin-left: 0px;
+}
+
+.d-flex.justify-content-between.d-none.d-lg-block{
+    margin-left: 0px;
+    padding-top: 0px;
+}
+
+ul {
+    padding: 0;
+}
+ul.list-group.list-group-horizontal-sm{
+    padding-left: 0;
+}
+
